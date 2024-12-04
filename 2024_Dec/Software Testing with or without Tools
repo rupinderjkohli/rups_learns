@@ -1,35 +1,16 @@
+In recent years, the software testing landscape has been inundated with new tools, each sparking discussions within the testing community about whether to adopt them or not. Throughout my professional career, I’ve always relied on a "toolset," though not in the sense that the term is often used today.
 
-The last few years have seen the onset of software testing tools ushering into the market. Each new tool entering the market brings about a new revolution amongst the testing community to use it or not to use it.
-My professional journey was never without my "tools" arsenal but not as per the usage of the word "tools" as it's used today.
-As per the engish dictionary (cambridge) - 
+According to the Cambridge English Dictionary:
 
-Meaning of tool in English
- 
-tool [noun [ C ]]
-uk  /tuːl/ us  /tuːl/
-tool noun [C] (EQUIPMENT)
-a piece of equipment that you use with your hands to make or repair something:
-- power tools
-- machine tools
-something that helps you to do a particular activity:
-- useful tool A free low-interest credit card can be a useful budgeting tool.
+Tool (noun): A piece of equipment used by hand to create or repair something, or a device that helps accomplish a specific task.
+Example: power tools, machine tools.
+"Tool of the trade" refers to essential instruments used in one’s profession.
+Humans have always needed tools to carry out daily tasks—whether gardeners, plumbers, teachers, or toddlers. For instance, does a gardener using a planter to plant seeds now become an "automated gardener"? Similarly, a baker using an oven to bake cakes is still a baker, not an "automated baker."
 
-tool of the trade [ usually plural ]
-A tool of the trade is something you need to use to do your job:
-- The artist was surrounded by paints, brushes, and other tools of the trade.
-These are the essential tools of the trade.
-- The award-winning baker is surrounded by a vast array of icing nozzles, the vital tools of the trade.
-- Stealth is one of the basic tools of the trade in my line of work.
-- With great pride, Martha shows me all her cameras and lenses - the tools of the trade.
+In the same vein, testers using tools like Selenium or Playwright should still be referred to as testers, not "automated testers." The automation is simply a tool, not the defining characteristic of the profession.
 
-Essentially, the humans need TOOLs to be able to perform their day to day tasks. Be it be a gardner, plumber, teacher, toddler. Do we start saying that the gardner using the planter tool has automated the task of planting saplings, seeds, or bulbs in the soil. And now he/she is not a gardner but an automated gardner.
+While researching the evolution of testing tools, I came across the article "A History of Automated Testing" by Jeff Nyman. It provides an insightful overview of how testing tools have evolved—from highly specialized tools like the FORTRAN Autotester to versatile, language-agnostic tools like Postman and Selenium. I highly recommend the testing community read this post. Thank you, Jeff Nyman, for this enriching contribution.
 
-The long story short: all of us are using tools, we don't say automation gardner or an automation baker using oven to bake the cakes. We just call them a gardner or a baker.
-
-Based on this article, would like to hear your views whether to call a tester using Selenium or Playwright to be called as an automated tester of a Tester.
-
-While researching on the evolution of testing tools, bumped on the article, "A History of Automated Testing" by Jeff Nyman and it made a lovely read enriching me with the evolution of testing tools from highly specialized and focussed eg FORTRAN Autotester, to versatile language-agnostic tools eg Postman, Selenium. Highly recommend the testing community read this post. Thankyou Jeff Nyman for writing this.  
-
-- "A History of Automated Testing" by Jeff Nyman - https://testerstories.com/2023/01/a-history-of-automated-testing/
+A History of Automated Testing by Jeff Nyman - https://testerstories.com/2023/01/a-history-of-automated-testing/
 
 Disclaimer: The views and opinions expressed in this post are my own and do not necessarily reflect those of my employer, organization, or any affiliated entities. The content is intended for informational purposes only and should not be considered professional advice.
