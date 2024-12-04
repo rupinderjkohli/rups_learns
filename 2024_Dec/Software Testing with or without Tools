@@ -1,0 +1,16 @@
+In recent years, the software testing landscape has been inundated with new tools, each sparking discussions within the testing community about whether to adopt them or not. Throughout my professional career, I’ve always relied on a "toolset," though not in the sense that the term is often used today.
+
+According to the Cambridge English Dictionary:
+
+Tool (noun): A piece of equipment used by hand to create or repair something, or a device that helps accomplish a specific task.
+Example: power tools, machine tools.
+"Tool of the trade" refers to essential instruments used in one’s profession.
+Humans have always needed tools to carry out daily tasks—whether gardeners, plumbers, teachers, or toddlers. For instance, does a gardener using a planter to plant seeds now become an "automated gardener"? Similarly, a baker using an oven to bake cakes is still a baker, not an "automated baker."
+
+In the same vein, testers using tools like Selenium or Playwright should still be referred to as testers, not "automated testers." The automation is simply a tool, not the defining characteristic of the profession.
+
+While researching the evolution of testing tools, I came across the article "A History of Automated Testing" by Jeff Nyman. It provides an insightful overview of how testing tools have evolved—from highly specialized tools like the FORTRAN Autotester to versatile, language-agnostic tools like Postman and Selenium. I highly recommend the testing community read this post. Thank you, Jeff Nyman, for this enriching contribution.
+
+A History of Automated Testing by Jeff Nyman - https://testerstories.com/2023/01/a-history-of-automated-testing/
+
+Disclaimer: The views and opinions expressed in this post are my own and do not necessarily reflect those of my employer, organization, or any affiliated entities. The content is intended for informational purposes only and should not be considered professional advice.
